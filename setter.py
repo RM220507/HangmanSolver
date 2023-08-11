@@ -1,8 +1,12 @@
 import json
 import random
 
-class Setter:
+from baseclass import BaseClass
+
+class Setter(BaseClass):
     def __init__(self):
+        super().__init__()
+
         with open("refined-words.json", "r") as f:
             self.words = json.load(f)
 
@@ -10,10 +14,7 @@ class Setter:
         self.select_word(num_letters)
 
         self.current_state = ["_" for l in self.word]
-        self.unique_characters = len(set(self.word))
-
-        self.attempts_made = 0
-        self.wrong_attempts = 0
+        self.reset_counters()
 
         return len(self.word)
 
@@ -30,18 +31,12 @@ class Setter:
     def try_letter(self, letter):
         occurrences = [i for i, char in enumerate(self.word) if char == letter]
         
-        self.attempts_made += 1
-
-        if len(occurrences) == 0:
-            self.wrong_attempts += 1
+        self.letter_tried(len(occurrences) > 0, letter)
         
         for occurrence in occurrences:
             self.current_state[occurrence] = letter
 
         return occurrences
-    
-    def check_game_end(self):
-        return self.wrong_attempts >= 9 or self.current_state.count("_") == 0
 
     def weighted_length(self):
         total_weight = sum(len(lst) for lst in self.words.values())

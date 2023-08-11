@@ -2,28 +2,33 @@ import json
 import re
 from string import ascii_lowercase as alphabet
 
-class Solver:
+from baseclass import BaseClass
+
+class Solver(BaseClass):
     def __init__(self):
+        super().__init__()
+
         with open("refined-words.json", "r") as f:
             self.words = json.load(f)
 
     def begin(self, num_letters):
-        self.to_solve = ["_" for i in range(num_letters)]
+        self.current_state = ["_" for i in range(num_letters)]
         self.num_letters = num_letters
 
-        self.tried_letters = []
         self.possible_words = self.words[str(num_letters)]
 
-    def letter_tried(self, letter, positions):
+        self.reset_counters()
+
+    def attempt_results(self, letter, positions):
         # function to append a tried letter to the tried_letters list and update the possible_words list according to new information
-        self.tried_letters.append(letter)
+        self.letter_tried(len(positions) > 0, letter)
 
         if len(positions) > 0:
             for position in positions: # set each position to the letter
-                self.to_solve[position] = letter
+                self.current_state[position] = letter
 
         ignore_chars = f"[^{''.join(l for l in self.tried_letters)}]"
-        regex_string = "".join(l if l != "_" else ignore_chars for l in self.to_solve)
+        regex_string = "".join(l if l != "_" else ignore_chars for l in self.current_state)
 
         old_words = self.possible_words.copy()
         self.possible_words = []
