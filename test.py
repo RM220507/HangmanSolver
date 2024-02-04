@@ -8,7 +8,7 @@ logger.setLevel(logging.DEBUG)
 
 # Create a console handler and set level to INFO
 console_handler = logging.StreamHandler()
-console_handler.setLevel(logging.INFO)
+console_handler.setLevel(logging.DEBUG)
 
 # Create a file handler and set level to DEBUG
 file_handler = logging.FileHandler('testing-100000.log')
@@ -24,7 +24,7 @@ file_handler.setFormatter(file_formatter)
 logger.addHandler(console_handler)
 logger.addHandler(file_handler)
 
-TEST_COUNT = 100000
+TEST_COUNT = int(input("Number of Tests: "))
 
 tests_won = 0
 losing_words = []
@@ -42,7 +42,7 @@ for test in range(TEST_COUNT):
 
     logger.debug(f"Word is: {setter.word}.")
 
-    while not setter.check_game_end():
+    while not setter.game_end():
         logger.debug(f"{len(solver.possible_words)} possible words.")
 
         letter = solver.get_next()
@@ -50,7 +50,7 @@ for test in range(TEST_COUNT):
         solver.letter_tried(letter, result)
 
         logger.debug(f"Tried letter: {letter}; with result: {result}.")
-        logger.debug(f"Attempts made: {setter.attempts_made}; incorrect attempts: {setter.wrong_attempts}; letters remaining: {setter.unique_characters - (setter.attempts_made - setter.wrong_attempts)}.")
+        logger.debug(f"Attempts made: {setter.attempts_made}; incorrect attempts: {setter.incorrect_attempts}; correct attempts: {(setter.attempts_made - setter.incorrect_attempts)}.")
 
     logger.info(f"TEST {test} complete.")
 

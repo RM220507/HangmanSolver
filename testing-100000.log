@@ -46132,3 +46132,733 @@
 2023-08-04 16:16:29 - INFO - Performing TEST 1445:
 2023-08-04 16:16:29 - DEBUG - Word is: uncially.
 2023-08-04 16:16:29 - DEBUG - 44678 possible words.
+2024-02-04 17:52:06 - INFO - Performing 100000 tests.
+2024-02-04 17:52:06 - INFO - Performing TEST 0:
+2024-02-04 17:52:06 - DEBUG - Word is: debaucheries.
+2024-02-04 17:52:38 - INFO - Performing 10000 tests.
+2024-02-04 17:52:38 - INFO - Performing TEST 0:
+2024-02-04 17:52:38 - DEBUG - Word is: procreating.
+2024-02-04 17:52:38 - DEBUG - 30684 possible words.
+2024-02-04 17:52:38 - DEBUG - Tried letter: e; with result: [5].
+2024-02-04 17:53:25 - INFO - Performing 10000 tests.
+2024-02-04 17:53:25 - INFO - Performing TEST 0:
+2024-02-04 17:53:25 - DEBUG - Word is: majorcan.
+2024-02-04 17:53:25 - DEBUG - 44678 possible words.
+2024-02-04 17:53:25 - DEBUG - Tried letter: e; with result: [].
+2024-02-04 17:55:46 - INFO - Performing 10000 tests.
+2024-02-04 17:55:46 - INFO - Performing TEST 0:
+2024-02-04 17:55:46 - DEBUG - Word is: tradesman.
+2024-02-04 17:55:46 - DEBUG - 44892 possible words.
+2024-02-04 17:55:47 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:47 - DEBUG - Attempts made: 1; incorrect attempts: 0; correct attempts: 1.
+2024-02-04 17:55:47 - DEBUG - 44892 possible words.
+2024-02-04 17:55:47 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:47 - DEBUG - Attempts made: 2; incorrect attempts: 0; correct attempts: 2.
+2024-02-04 17:55:47 - DEBUG - 44892 possible words.
+2024-02-04 17:55:47 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:47 - DEBUG - Attempts made: 3; incorrect attempts: 0; correct attempts: 3.
+2024-02-04 17:55:47 - DEBUG - 44892 possible words.
+2024-02-04 17:55:48 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:48 - DEBUG - Attempts made: 4; incorrect attempts: 0; correct attempts: 4.
+2024-02-04 17:55:48 - DEBUG - 44892 possible words.
+2024-02-04 17:55:48 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:48 - DEBUG - Attempts made: 5; incorrect attempts: 0; correct attempts: 5.
+2024-02-04 17:55:48 - DEBUG - 44892 possible words.
+2024-02-04 17:55:48 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:48 - DEBUG - Attempts made: 6; incorrect attempts: 0; correct attempts: 6.
+2024-02-04 17:55:48 - DEBUG - 44892 possible words.
+2024-02-04 17:55:49 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:49 - DEBUG - Attempts made: 7; incorrect attempts: 0; correct attempts: 7.
+2024-02-04 17:55:49 - DEBUG - 44892 possible words.
+2024-02-04 17:55:49 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:49 - DEBUG - Attempts made: 8; incorrect attempts: 0; correct attempts: 8.
+2024-02-04 17:55:49 - DEBUG - 44892 possible words.
+2024-02-04 17:55:49 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:49 - DEBUG - Attempts made: 9; incorrect attempts: 0; correct attempts: 9.
+2024-02-04 17:55:49 - DEBUG - 44892 possible words.
+2024-02-04 17:55:50 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:50 - DEBUG - Attempts made: 10; incorrect attempts: 0; correct attempts: 10.
+2024-02-04 17:55:50 - DEBUG - 44892 possible words.
+2024-02-04 17:55:50 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:50 - DEBUG - Attempts made: 11; incorrect attempts: 0; correct attempts: 11.
+2024-02-04 17:55:50 - DEBUG - 44892 possible words.
+2024-02-04 17:55:50 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:50 - DEBUG - Attempts made: 12; incorrect attempts: 0; correct attempts: 12.
+2024-02-04 17:55:50 - DEBUG - 44892 possible words.
+2024-02-04 17:55:51 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:51 - DEBUG - Attempts made: 13; incorrect attempts: 0; correct attempts: 13.
+2024-02-04 17:55:51 - DEBUG - 44892 possible words.
+2024-02-04 17:55:51 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:51 - DEBUG - Attempts made: 14; incorrect attempts: 0; correct attempts: 14.
+2024-02-04 17:55:51 - DEBUG - 44892 possible words.
+2024-02-04 17:55:52 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:52 - DEBUG - Attempts made: 15; incorrect attempts: 0; correct attempts: 15.
+2024-02-04 17:55:52 - DEBUG - 44892 possible words.
+2024-02-04 17:55:53 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:53 - DEBUG - Attempts made: 16; incorrect attempts: 0; correct attempts: 16.
+2024-02-04 17:55:53 - DEBUG - 44892 possible words.
+2024-02-04 17:55:53 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:53 - DEBUG - Attempts made: 17; incorrect attempts: 0; correct attempts: 17.
+2024-02-04 17:55:53 - DEBUG - 44892 possible words.
+2024-02-04 17:55:53 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:53 - DEBUG - Attempts made: 18; incorrect attempts: 0; correct attempts: 18.
+2024-02-04 17:55:53 - DEBUG - 44892 possible words.
+2024-02-04 17:55:54 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:54 - DEBUG - Attempts made: 19; incorrect attempts: 0; correct attempts: 19.
+2024-02-04 17:55:54 - DEBUG - 44892 possible words.
+2024-02-04 17:55:55 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:55 - DEBUG - Attempts made: 20; incorrect attempts: 0; correct attempts: 20.
+2024-02-04 17:55:55 - DEBUG - 44892 possible words.
+2024-02-04 17:55:55 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:55 - DEBUG - Attempts made: 21; incorrect attempts: 0; correct attempts: 21.
+2024-02-04 17:55:55 - DEBUG - 44892 possible words.
+2024-02-04 17:55:55 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:55 - DEBUG - Attempts made: 22; incorrect attempts: 0; correct attempts: 22.
+2024-02-04 17:55:55 - DEBUG - 44892 possible words.
+2024-02-04 17:55:56 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:56 - DEBUG - Attempts made: 23; incorrect attempts: 0; correct attempts: 23.
+2024-02-04 17:55:56 - DEBUG - 44892 possible words.
+2024-02-04 17:55:56 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:56 - DEBUG - Attempts made: 24; incorrect attempts: 0; correct attempts: 24.
+2024-02-04 17:55:56 - DEBUG - 44892 possible words.
+2024-02-04 17:55:57 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:57 - DEBUG - Attempts made: 25; incorrect attempts: 0; correct attempts: 25.
+2024-02-04 17:55:57 - DEBUG - 44892 possible words.
+2024-02-04 17:55:57 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:57 - DEBUG - Attempts made: 26; incorrect attempts: 0; correct attempts: 26.
+2024-02-04 17:55:57 - DEBUG - 44892 possible words.
+2024-02-04 17:55:57 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:57 - DEBUG - Attempts made: 27; incorrect attempts: 0; correct attempts: 27.
+2024-02-04 17:55:57 - DEBUG - 44892 possible words.
+2024-02-04 17:55:58 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:58 - DEBUG - Attempts made: 28; incorrect attempts: 0; correct attempts: 28.
+2024-02-04 17:55:58 - DEBUG - 44892 possible words.
+2024-02-04 17:55:58 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:58 - DEBUG - Attempts made: 29; incorrect attempts: 0; correct attempts: 29.
+2024-02-04 17:55:58 - DEBUG - 44892 possible words.
+2024-02-04 17:55:58 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:58 - DEBUG - Attempts made: 30; incorrect attempts: 0; correct attempts: 30.
+2024-02-04 17:55:58 - DEBUG - 44892 possible words.
+2024-02-04 17:55:59 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:59 - DEBUG - Attempts made: 31; incorrect attempts: 0; correct attempts: 31.
+2024-02-04 17:55:59 - DEBUG - 44892 possible words.
+2024-02-04 17:55:59 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:59 - DEBUG - Attempts made: 32; incorrect attempts: 0; correct attempts: 32.
+2024-02-04 17:55:59 - DEBUG - 44892 possible words.
+2024-02-04 17:55:59 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:55:59 - DEBUG - Attempts made: 33; incorrect attempts: 0; correct attempts: 33.
+2024-02-04 17:55:59 - DEBUG - 44892 possible words.
+2024-02-04 17:56:00 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:56:00 - DEBUG - Attempts made: 34; incorrect attempts: 0; correct attempts: 34.
+2024-02-04 17:56:00 - DEBUG - 44892 possible words.
+2024-02-04 17:56:00 - DEBUG - Tried letter: e; with result: [4].
+2024-02-04 17:56:00 - DEBUG - Attempts made: 35; incorrect attempts: 0; correct attempts: 35.
+2024-02-04 17:56:00 - DEBUG - 44892 possible words.
+2024-02-04 17:57:48 - INFO - Performing 1 tests.
+2024-02-04 17:57:48 - INFO - Performing TEST 0:
+2024-02-04 17:57:48 - DEBUG - Word is: stickinesses.
+2024-02-04 17:57:48 - DEBUG - 22278 possible words.
+2024-02-04 17:57:48 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:48 - DEBUG - Attempts made: 1; incorrect attempts: 0; correct attempts: 1.
+2024-02-04 17:57:48 - DEBUG - 22278 possible words.
+2024-02-04 17:57:48 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:48 - DEBUG - Attempts made: 2; incorrect attempts: 0; correct attempts: 2.
+2024-02-04 17:57:48 - DEBUG - 22278 possible words.
+2024-02-04 17:57:48 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:48 - DEBUG - Attempts made: 3; incorrect attempts: 0; correct attempts: 3.
+2024-02-04 17:57:48 - DEBUG - 22278 possible words.
+2024-02-04 17:57:49 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:49 - DEBUG - Attempts made: 4; incorrect attempts: 0; correct attempts: 4.
+2024-02-04 17:57:49 - DEBUG - 22278 possible words.
+2024-02-04 17:57:49 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:49 - DEBUG - Attempts made: 5; incorrect attempts: 0; correct attempts: 5.
+2024-02-04 17:57:49 - DEBUG - 22278 possible words.
+2024-02-04 17:57:49 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:49 - DEBUG - Attempts made: 6; incorrect attempts: 0; correct attempts: 6.
+2024-02-04 17:57:49 - DEBUG - 22278 possible words.
+2024-02-04 17:57:49 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:49 - DEBUG - Attempts made: 7; incorrect attempts: 0; correct attempts: 7.
+2024-02-04 17:57:49 - DEBUG - 22278 possible words.
+2024-02-04 17:57:49 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:49 - DEBUG - Attempts made: 8; incorrect attempts: 0; correct attempts: 8.
+2024-02-04 17:57:49 - DEBUG - 22278 possible words.
+2024-02-04 17:57:49 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:49 - DEBUG - Attempts made: 9; incorrect attempts: 0; correct attempts: 9.
+2024-02-04 17:57:49 - DEBUG - 22278 possible words.
+2024-02-04 17:57:49 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:49 - DEBUG - Attempts made: 10; incorrect attempts: 0; correct attempts: 10.
+2024-02-04 17:57:49 - DEBUG - 22278 possible words.
+2024-02-04 17:57:50 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:50 - DEBUG - Attempts made: 11; incorrect attempts: 0; correct attempts: 11.
+2024-02-04 17:57:50 - DEBUG - 22278 possible words.
+2024-02-04 17:57:50 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:50 - DEBUG - Attempts made: 12; incorrect attempts: 0; correct attempts: 12.
+2024-02-04 17:57:50 - DEBUG - 22278 possible words.
+2024-02-04 17:57:50 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:50 - DEBUG - Attempts made: 13; incorrect attempts: 0; correct attempts: 13.
+2024-02-04 17:57:50 - DEBUG - 22278 possible words.
+2024-02-04 17:57:50 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:50 - DEBUG - Attempts made: 14; incorrect attempts: 0; correct attempts: 14.
+2024-02-04 17:57:50 - DEBUG - 22278 possible words.
+2024-02-04 17:57:50 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:50 - DEBUG - Attempts made: 15; incorrect attempts: 0; correct attempts: 15.
+2024-02-04 17:57:50 - DEBUG - 22278 possible words.
+2024-02-04 17:57:50 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:50 - DEBUG - Attempts made: 16; incorrect attempts: 0; correct attempts: 16.
+2024-02-04 17:57:50 - DEBUG - 22278 possible words.
+2024-02-04 17:57:51 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:51 - DEBUG - Attempts made: 17; incorrect attempts: 0; correct attempts: 17.
+2024-02-04 17:57:51 - DEBUG - 22278 possible words.
+2024-02-04 17:57:51 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:51 - DEBUG - Attempts made: 18; incorrect attempts: 0; correct attempts: 18.
+2024-02-04 17:57:51 - DEBUG - 22278 possible words.
+2024-02-04 17:57:51 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:51 - DEBUG - Attempts made: 19; incorrect attempts: 0; correct attempts: 19.
+2024-02-04 17:57:51 - DEBUG - 22278 possible words.
+2024-02-04 17:57:51 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:51 - DEBUG - Attempts made: 20; incorrect attempts: 0; correct attempts: 20.
+2024-02-04 17:57:51 - DEBUG - 22278 possible words.
+2024-02-04 17:57:51 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:51 - DEBUG - Attempts made: 21; incorrect attempts: 0; correct attempts: 21.
+2024-02-04 17:57:51 - DEBUG - 22278 possible words.
+2024-02-04 17:57:51 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:51 - DEBUG - Attempts made: 22; incorrect attempts: 0; correct attempts: 22.
+2024-02-04 17:57:51 - DEBUG - 22278 possible words.
+2024-02-04 17:57:51 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:51 - DEBUG - Attempts made: 23; incorrect attempts: 0; correct attempts: 23.
+2024-02-04 17:57:51 - DEBUG - 22278 possible words.
+2024-02-04 17:57:52 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:52 - DEBUG - Attempts made: 24; incorrect attempts: 0; correct attempts: 24.
+2024-02-04 17:57:52 - DEBUG - 22278 possible words.
+2024-02-04 17:57:52 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:52 - DEBUG - Attempts made: 25; incorrect attempts: 0; correct attempts: 25.
+2024-02-04 17:57:52 - DEBUG - 22278 possible words.
+2024-02-04 17:57:52 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:52 - DEBUG - Attempts made: 26; incorrect attempts: 0; correct attempts: 26.
+2024-02-04 17:57:52 - DEBUG - 22278 possible words.
+2024-02-04 17:57:52 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:52 - DEBUG - Attempts made: 27; incorrect attempts: 0; correct attempts: 27.
+2024-02-04 17:57:52 - DEBUG - 22278 possible words.
+2024-02-04 17:57:52 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:52 - DEBUG - Attempts made: 28; incorrect attempts: 0; correct attempts: 28.
+2024-02-04 17:57:52 - DEBUG - 22278 possible words.
+2024-02-04 17:57:52 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:52 - DEBUG - Attempts made: 29; incorrect attempts: 0; correct attempts: 29.
+2024-02-04 17:57:52 - DEBUG - 22278 possible words.
+2024-02-04 17:57:53 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:53 - DEBUG - Attempts made: 30; incorrect attempts: 0; correct attempts: 30.
+2024-02-04 17:57:53 - DEBUG - 22278 possible words.
+2024-02-04 17:57:53 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:53 - DEBUG - Attempts made: 31; incorrect attempts: 0; correct attempts: 31.
+2024-02-04 17:57:53 - DEBUG - 22278 possible words.
+2024-02-04 17:57:53 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:53 - DEBUG - Attempts made: 32; incorrect attempts: 0; correct attempts: 32.
+2024-02-04 17:57:53 - DEBUG - 22278 possible words.
+2024-02-04 17:57:53 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:53 - DEBUG - Attempts made: 33; incorrect attempts: 0; correct attempts: 33.
+2024-02-04 17:57:53 - DEBUG - 22278 possible words.
+2024-02-04 17:57:53 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:53 - DEBUG - Attempts made: 34; incorrect attempts: 0; correct attempts: 34.
+2024-02-04 17:57:53 - DEBUG - 22278 possible words.
+2024-02-04 17:57:53 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:53 - DEBUG - Attempts made: 35; incorrect attempts: 0; correct attempts: 35.
+2024-02-04 17:57:53 - DEBUG - 22278 possible words.
+2024-02-04 17:57:54 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:54 - DEBUG - Attempts made: 36; incorrect attempts: 0; correct attempts: 36.
+2024-02-04 17:57:54 - DEBUG - 22278 possible words.
+2024-02-04 17:57:54 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:54 - DEBUG - Attempts made: 37; incorrect attempts: 0; correct attempts: 37.
+2024-02-04 17:57:54 - DEBUG - 22278 possible words.
+2024-02-04 17:57:54 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:54 - DEBUG - Attempts made: 38; incorrect attempts: 0; correct attempts: 38.
+2024-02-04 17:57:54 - DEBUG - 22278 possible words.
+2024-02-04 17:57:54 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:54 - DEBUG - Attempts made: 39; incorrect attempts: 0; correct attempts: 39.
+2024-02-04 17:57:54 - DEBUG - 22278 possible words.
+2024-02-04 17:57:54 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:54 - DEBUG - Attempts made: 40; incorrect attempts: 0; correct attempts: 40.
+2024-02-04 17:57:54 - DEBUG - 22278 possible words.
+2024-02-04 17:57:55 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:55 - DEBUG - Attempts made: 41; incorrect attempts: 0; correct attempts: 41.
+2024-02-04 17:57:55 - DEBUG - 22278 possible words.
+2024-02-04 17:57:55 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:55 - DEBUG - Attempts made: 42; incorrect attempts: 0; correct attempts: 42.
+2024-02-04 17:57:55 - DEBUG - 22278 possible words.
+2024-02-04 17:57:55 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:55 - DEBUG - Attempts made: 43; incorrect attempts: 0; correct attempts: 43.
+2024-02-04 17:57:55 - DEBUG - 22278 possible words.
+2024-02-04 17:57:55 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:55 - DEBUG - Attempts made: 44; incorrect attempts: 0; correct attempts: 44.
+2024-02-04 17:57:55 - DEBUG - 22278 possible words.
+2024-02-04 17:57:55 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:55 - DEBUG - Attempts made: 45; incorrect attempts: 0; correct attempts: 45.
+2024-02-04 17:57:55 - DEBUG - 22278 possible words.
+2024-02-04 17:57:55 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:55 - DEBUG - Attempts made: 46; incorrect attempts: 0; correct attempts: 46.
+2024-02-04 17:57:55 - DEBUG - 22278 possible words.
+2024-02-04 17:57:56 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:56 - DEBUG - Attempts made: 47; incorrect attempts: 0; correct attempts: 47.
+2024-02-04 17:57:56 - DEBUG - 22278 possible words.
+2024-02-04 17:57:56 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:56 - DEBUG - Attempts made: 48; incorrect attempts: 0; correct attempts: 48.
+2024-02-04 17:57:56 - DEBUG - 22278 possible words.
+2024-02-04 17:57:56 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:56 - DEBUG - Attempts made: 49; incorrect attempts: 0; correct attempts: 49.
+2024-02-04 17:57:56 - DEBUG - 22278 possible words.
+2024-02-04 17:57:56 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:56 - DEBUG - Attempts made: 50; incorrect attempts: 0; correct attempts: 50.
+2024-02-04 17:57:56 - DEBUG - 22278 possible words.
+2024-02-04 17:57:56 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:56 - DEBUG - Attempts made: 51; incorrect attempts: 0; correct attempts: 51.
+2024-02-04 17:57:56 - DEBUG - 22278 possible words.
+2024-02-04 17:57:56 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:56 - DEBUG - Attempts made: 52; incorrect attempts: 0; correct attempts: 52.
+2024-02-04 17:57:56 - DEBUG - 22278 possible words.
+2024-02-04 17:57:57 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:57 - DEBUG - Attempts made: 53; incorrect attempts: 0; correct attempts: 53.
+2024-02-04 17:57:57 - DEBUG - 22278 possible words.
+2024-02-04 17:57:57 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:57 - DEBUG - Attempts made: 54; incorrect attempts: 0; correct attempts: 54.
+2024-02-04 17:57:57 - DEBUG - 22278 possible words.
+2024-02-04 17:57:57 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:57 - DEBUG - Attempts made: 55; incorrect attempts: 0; correct attempts: 55.
+2024-02-04 17:57:57 - DEBUG - 22278 possible words.
+2024-02-04 17:57:57 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:57 - DEBUG - Attempts made: 56; incorrect attempts: 0; correct attempts: 56.
+2024-02-04 17:57:57 - DEBUG - 22278 possible words.
+2024-02-04 17:57:57 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:57 - DEBUG - Attempts made: 57; incorrect attempts: 0; correct attempts: 57.
+2024-02-04 17:57:57 - DEBUG - 22278 possible words.
+2024-02-04 17:57:58 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:58 - DEBUG - Attempts made: 58; incorrect attempts: 0; correct attempts: 58.
+2024-02-04 17:57:58 - DEBUG - 22278 possible words.
+2024-02-04 17:57:58 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:58 - DEBUG - Attempts made: 59; incorrect attempts: 0; correct attempts: 59.
+2024-02-04 17:57:58 - DEBUG - 22278 possible words.
+2024-02-04 17:57:58 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:58 - DEBUG - Attempts made: 60; incorrect attempts: 0; correct attempts: 60.
+2024-02-04 17:57:58 - DEBUG - 22278 possible words.
+2024-02-04 17:57:58 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:58 - DEBUG - Attempts made: 61; incorrect attempts: 0; correct attempts: 61.
+2024-02-04 17:57:58 - DEBUG - 22278 possible words.
+2024-02-04 17:57:58 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:58 - DEBUG - Attempts made: 62; incorrect attempts: 0; correct attempts: 62.
+2024-02-04 17:57:58 - DEBUG - 22278 possible words.
+2024-02-04 17:57:58 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:58 - DEBUG - Attempts made: 63; incorrect attempts: 0; correct attempts: 63.
+2024-02-04 17:57:58 - DEBUG - 22278 possible words.
+2024-02-04 17:57:58 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:58 - DEBUG - Attempts made: 64; incorrect attempts: 0; correct attempts: 64.
+2024-02-04 17:57:58 - DEBUG - 22278 possible words.
+2024-02-04 17:57:59 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:59 - DEBUG - Attempts made: 65; incorrect attempts: 0; correct attempts: 65.
+2024-02-04 17:57:59 - DEBUG - 22278 possible words.
+2024-02-04 17:57:59 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:59 - DEBUG - Attempts made: 66; incorrect attempts: 0; correct attempts: 66.
+2024-02-04 17:57:59 - DEBUG - 22278 possible words.
+2024-02-04 17:57:59 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:59 - DEBUG - Attempts made: 67; incorrect attempts: 0; correct attempts: 67.
+2024-02-04 17:57:59 - DEBUG - 22278 possible words.
+2024-02-04 17:57:59 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:59 - DEBUG - Attempts made: 68; incorrect attempts: 0; correct attempts: 68.
+2024-02-04 17:57:59 - DEBUG - 22278 possible words.
+2024-02-04 17:57:59 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:59 - DEBUG - Attempts made: 69; incorrect attempts: 0; correct attempts: 69.
+2024-02-04 17:57:59 - DEBUG - 22278 possible words.
+2024-02-04 17:57:59 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:57:59 - DEBUG - Attempts made: 70; incorrect attempts: 0; correct attempts: 70.
+2024-02-04 17:57:59 - DEBUG - 22278 possible words.
+2024-02-04 17:58:00 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:00 - DEBUG - Attempts made: 71; incorrect attempts: 0; correct attempts: 71.
+2024-02-04 17:58:00 - DEBUG - 22278 possible words.
+2024-02-04 17:58:00 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:00 - DEBUG - Attempts made: 72; incorrect attempts: 0; correct attempts: 72.
+2024-02-04 17:58:00 - DEBUG - 22278 possible words.
+2024-02-04 17:58:00 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:00 - DEBUG - Attempts made: 73; incorrect attempts: 0; correct attempts: 73.
+2024-02-04 17:58:00 - DEBUG - 22278 possible words.
+2024-02-04 17:58:00 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:00 - DEBUG - Attempts made: 74; incorrect attempts: 0; correct attempts: 74.
+2024-02-04 17:58:00 - DEBUG - 22278 possible words.
+2024-02-04 17:58:00 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:00 - DEBUG - Attempts made: 75; incorrect attempts: 0; correct attempts: 75.
+2024-02-04 17:58:00 - DEBUG - 22278 possible words.
+2024-02-04 17:58:00 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:00 - DEBUG - Attempts made: 76; incorrect attempts: 0; correct attempts: 76.
+2024-02-04 17:58:00 - DEBUG - 22278 possible words.
+2024-02-04 17:58:00 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:00 - DEBUG - Attempts made: 77; incorrect attempts: 0; correct attempts: 77.
+2024-02-04 17:58:00 - DEBUG - 22278 possible words.
+2024-02-04 17:58:01 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:01 - DEBUG - Attempts made: 78; incorrect attempts: 0; correct attempts: 78.
+2024-02-04 17:58:01 - DEBUG - 22278 possible words.
+2024-02-04 17:58:01 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:01 - DEBUG - Attempts made: 79; incorrect attempts: 0; correct attempts: 79.
+2024-02-04 17:58:01 - DEBUG - 22278 possible words.
+2024-02-04 17:58:01 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:01 - DEBUG - Attempts made: 80; incorrect attempts: 0; correct attempts: 80.
+2024-02-04 17:58:01 - DEBUG - 22278 possible words.
+2024-02-04 17:58:01 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:01 - DEBUG - Attempts made: 81; incorrect attempts: 0; correct attempts: 81.
+2024-02-04 17:58:01 - DEBUG - 22278 possible words.
+2024-02-04 17:58:01 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:01 - DEBUG - Attempts made: 82; incorrect attempts: 0; correct attempts: 82.
+2024-02-04 17:58:01 - DEBUG - 22278 possible words.
+2024-02-04 17:58:01 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:01 - DEBUG - Attempts made: 83; incorrect attempts: 0; correct attempts: 83.
+2024-02-04 17:58:01 - DEBUG - 22278 possible words.
+2024-02-04 17:58:02 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:02 - DEBUG - Attempts made: 84; incorrect attempts: 0; correct attempts: 84.
+2024-02-04 17:58:02 - DEBUG - 22278 possible words.
+2024-02-04 17:58:02 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:02 - DEBUG - Attempts made: 85; incorrect attempts: 0; correct attempts: 85.
+2024-02-04 17:58:02 - DEBUG - 22278 possible words.
+2024-02-04 17:58:02 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:02 - DEBUG - Attempts made: 86; incorrect attempts: 0; correct attempts: 86.
+2024-02-04 17:58:02 - DEBUG - 22278 possible words.
+2024-02-04 17:58:02 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:02 - DEBUG - Attempts made: 87; incorrect attempts: 0; correct attempts: 87.
+2024-02-04 17:58:02 - DEBUG - 22278 possible words.
+2024-02-04 17:58:02 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:02 - DEBUG - Attempts made: 88; incorrect attempts: 0; correct attempts: 88.
+2024-02-04 17:58:02 - DEBUG - 22278 possible words.
+2024-02-04 17:58:02 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:02 - DEBUG - Attempts made: 89; incorrect attempts: 0; correct attempts: 89.
+2024-02-04 17:58:02 - DEBUG - 22278 possible words.
+2024-02-04 17:58:02 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:02 - DEBUG - Attempts made: 90; incorrect attempts: 0; correct attempts: 90.
+2024-02-04 17:58:02 - DEBUG - 22278 possible words.
+2024-02-04 17:58:03 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:03 - DEBUG - Attempts made: 91; incorrect attempts: 0; correct attempts: 91.
+2024-02-04 17:58:03 - DEBUG - 22278 possible words.
+2024-02-04 17:58:03 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:03 - DEBUG - Attempts made: 92; incorrect attempts: 0; correct attempts: 92.
+2024-02-04 17:58:03 - DEBUG - 22278 possible words.
+2024-02-04 17:58:03 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:03 - DEBUG - Attempts made: 93; incorrect attempts: 0; correct attempts: 93.
+2024-02-04 17:58:03 - DEBUG - 22278 possible words.
+2024-02-04 17:58:03 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:03 - DEBUG - Attempts made: 94; incorrect attempts: 0; correct attempts: 94.
+2024-02-04 17:58:03 - DEBUG - 22278 possible words.
+2024-02-04 17:58:03 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:03 - DEBUG - Attempts made: 95; incorrect attempts: 0; correct attempts: 95.
+2024-02-04 17:58:03 - DEBUG - 22278 possible words.
+2024-02-04 17:58:04 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:04 - DEBUG - Attempts made: 96; incorrect attempts: 0; correct attempts: 96.
+2024-02-04 17:58:04 - DEBUG - 22278 possible words.
+2024-02-04 17:58:04 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:04 - DEBUG - Attempts made: 97; incorrect attempts: 0; correct attempts: 97.
+2024-02-04 17:58:04 - DEBUG - 22278 possible words.
+2024-02-04 17:58:04 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:04 - DEBUG - Attempts made: 98; incorrect attempts: 0; correct attempts: 98.
+2024-02-04 17:58:04 - DEBUG - 22278 possible words.
+2024-02-04 17:58:04 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:04 - DEBUG - Attempts made: 99; incorrect attempts: 0; correct attempts: 99.
+2024-02-04 17:58:04 - DEBUG - 22278 possible words.
+2024-02-04 17:58:04 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:04 - DEBUG - Attempts made: 100; incorrect attempts: 0; correct attempts: 100.
+2024-02-04 17:58:04 - DEBUG - 22278 possible words.
+2024-02-04 17:58:04 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:04 - DEBUG - Attempts made: 101; incorrect attempts: 0; correct attempts: 101.
+2024-02-04 17:58:04 - DEBUG - 22278 possible words.
+2024-02-04 17:58:05 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:05 - DEBUG - Attempts made: 102; incorrect attempts: 0; correct attempts: 102.
+2024-02-04 17:58:05 - DEBUG - 22278 possible words.
+2024-02-04 17:58:05 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:05 - DEBUG - Attempts made: 103; incorrect attempts: 0; correct attempts: 103.
+2024-02-04 17:58:05 - DEBUG - 22278 possible words.
+2024-02-04 17:58:05 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:05 - DEBUG - Attempts made: 104; incorrect attempts: 0; correct attempts: 104.
+2024-02-04 17:58:05 - DEBUG - 22278 possible words.
+2024-02-04 17:58:05 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:05 - DEBUG - Attempts made: 105; incorrect attempts: 0; correct attempts: 105.
+2024-02-04 17:58:05 - DEBUG - 22278 possible words.
+2024-02-04 17:58:05 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:05 - DEBUG - Attempts made: 106; incorrect attempts: 0; correct attempts: 106.
+2024-02-04 17:58:05 - DEBUG - 22278 possible words.
+2024-02-04 17:58:06 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:06 - DEBUG - Attempts made: 107; incorrect attempts: 0; correct attempts: 107.
+2024-02-04 17:58:06 - DEBUG - 22278 possible words.
+2024-02-04 17:58:06 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:06 - DEBUG - Attempts made: 108; incorrect attempts: 0; correct attempts: 108.
+2024-02-04 17:58:06 - DEBUG - 22278 possible words.
+2024-02-04 17:58:06 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:06 - DEBUG - Attempts made: 109; incorrect attempts: 0; correct attempts: 109.
+2024-02-04 17:58:06 - DEBUG - 22278 possible words.
+2024-02-04 17:58:06 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:06 - DEBUG - Attempts made: 110; incorrect attempts: 0; correct attempts: 110.
+2024-02-04 17:58:06 - DEBUG - 22278 possible words.
+2024-02-04 17:58:06 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:06 - DEBUG - Attempts made: 111; incorrect attempts: 0; correct attempts: 111.
+2024-02-04 17:58:06 - DEBUG - 22278 possible words.
+2024-02-04 17:58:06 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:06 - DEBUG - Attempts made: 112; incorrect attempts: 0; correct attempts: 112.
+2024-02-04 17:58:06 - DEBUG - 22278 possible words.
+2024-02-04 17:58:07 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:07 - DEBUG - Attempts made: 113; incorrect attempts: 0; correct attempts: 113.
+2024-02-04 17:58:07 - DEBUG - 22278 possible words.
+2024-02-04 17:58:07 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:07 - DEBUG - Attempts made: 114; incorrect attempts: 0; correct attempts: 114.
+2024-02-04 17:58:07 - DEBUG - 22278 possible words.
+2024-02-04 17:58:07 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:07 - DEBUG - Attempts made: 115; incorrect attempts: 0; correct attempts: 115.
+2024-02-04 17:58:07 - DEBUG - 22278 possible words.
+2024-02-04 17:58:07 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:07 - DEBUG - Attempts made: 116; incorrect attempts: 0; correct attempts: 116.
+2024-02-04 17:58:07 - DEBUG - 22278 possible words.
+2024-02-04 17:58:07 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:07 - DEBUG - Attempts made: 117; incorrect attempts: 0; correct attempts: 117.
+2024-02-04 17:58:07 - DEBUG - 22278 possible words.
+2024-02-04 17:58:08 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:08 - DEBUG - Attempts made: 118; incorrect attempts: 0; correct attempts: 118.
+2024-02-04 17:58:08 - DEBUG - 22278 possible words.
+2024-02-04 17:58:08 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:08 - DEBUG - Attempts made: 119; incorrect attempts: 0; correct attempts: 119.
+2024-02-04 17:58:08 - DEBUG - 22278 possible words.
+2024-02-04 17:58:08 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:08 - DEBUG - Attempts made: 120; incorrect attempts: 0; correct attempts: 120.
+2024-02-04 17:58:08 - DEBUG - 22278 possible words.
+2024-02-04 17:58:08 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:08 - DEBUG - Attempts made: 121; incorrect attempts: 0; correct attempts: 121.
+2024-02-04 17:58:08 - DEBUG - 22278 possible words.
+2024-02-04 17:58:08 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:08 - DEBUG - Attempts made: 122; incorrect attempts: 0; correct attempts: 122.
+2024-02-04 17:58:08 - DEBUG - 22278 possible words.
+2024-02-04 17:58:08 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:08 - DEBUG - Attempts made: 123; incorrect attempts: 0; correct attempts: 123.
+2024-02-04 17:58:08 - DEBUG - 22278 possible words.
+2024-02-04 17:58:09 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:09 - DEBUG - Attempts made: 124; incorrect attempts: 0; correct attempts: 124.
+2024-02-04 17:58:09 - DEBUG - 22278 possible words.
+2024-02-04 17:58:09 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:09 - DEBUG - Attempts made: 125; incorrect attempts: 0; correct attempts: 125.
+2024-02-04 17:58:09 - DEBUG - 22278 possible words.
+2024-02-04 17:58:09 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:09 - DEBUG - Attempts made: 126; incorrect attempts: 0; correct attempts: 126.
+2024-02-04 17:58:09 - DEBUG - 22278 possible words.
+2024-02-04 17:58:09 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:09 - DEBUG - Attempts made: 127; incorrect attempts: 0; correct attempts: 127.
+2024-02-04 17:58:09 - DEBUG - 22278 possible words.
+2024-02-04 17:58:09 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:09 - DEBUG - Attempts made: 128; incorrect attempts: 0; correct attempts: 128.
+2024-02-04 17:58:09 - DEBUG - 22278 possible words.
+2024-02-04 17:58:09 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:09 - DEBUG - Attempts made: 129; incorrect attempts: 0; correct attempts: 129.
+2024-02-04 17:58:09 - DEBUG - 22278 possible words.
+2024-02-04 17:58:10 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:10 - DEBUG - Attempts made: 130; incorrect attempts: 0; correct attempts: 130.
+2024-02-04 17:58:10 - DEBUG - 22278 possible words.
+2024-02-04 17:58:10 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:10 - DEBUG - Attempts made: 131; incorrect attempts: 0; correct attempts: 131.
+2024-02-04 17:58:10 - DEBUG - 22278 possible words.
+2024-02-04 17:58:10 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:10 - DEBUG - Attempts made: 132; incorrect attempts: 0; correct attempts: 132.
+2024-02-04 17:58:10 - DEBUG - 22278 possible words.
+2024-02-04 17:58:10 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:10 - DEBUG - Attempts made: 133; incorrect attempts: 0; correct attempts: 133.
+2024-02-04 17:58:10 - DEBUG - 22278 possible words.
+2024-02-04 17:58:10 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:10 - DEBUG - Attempts made: 134; incorrect attempts: 0; correct attempts: 134.
+2024-02-04 17:58:10 - DEBUG - 22278 possible words.
+2024-02-04 17:58:10 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:10 - DEBUG - Attempts made: 135; incorrect attempts: 0; correct attempts: 135.
+2024-02-04 17:58:10 - DEBUG - 22278 possible words.
+2024-02-04 17:58:11 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:11 - DEBUG - Attempts made: 136; incorrect attempts: 0; correct attempts: 136.
+2024-02-04 17:58:11 - DEBUG - 22278 possible words.
+2024-02-04 17:58:11 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:11 - DEBUG - Attempts made: 137; incorrect attempts: 0; correct attempts: 137.
+2024-02-04 17:58:11 - DEBUG - 22278 possible words.
+2024-02-04 17:58:11 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:11 - DEBUG - Attempts made: 138; incorrect attempts: 0; correct attempts: 138.
+2024-02-04 17:58:11 - DEBUG - 22278 possible words.
+2024-02-04 17:58:11 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:11 - DEBUG - Attempts made: 139; incorrect attempts: 0; correct attempts: 139.
+2024-02-04 17:58:11 - DEBUG - 22278 possible words.
+2024-02-04 17:58:11 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:11 - DEBUG - Attempts made: 140; incorrect attempts: 0; correct attempts: 140.
+2024-02-04 17:58:11 - DEBUG - 22278 possible words.
+2024-02-04 17:58:11 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:11 - DEBUG - Attempts made: 141; incorrect attempts: 0; correct attempts: 141.
+2024-02-04 17:58:11 - DEBUG - 22278 possible words.
+2024-02-04 17:58:11 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:11 - DEBUG - Attempts made: 142; incorrect attempts: 0; correct attempts: 142.
+2024-02-04 17:58:11 - DEBUG - 22278 possible words.
+2024-02-04 17:58:12 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:12 - DEBUG - Attempts made: 143; incorrect attempts: 0; correct attempts: 143.
+2024-02-04 17:58:12 - DEBUG - 22278 possible words.
+2024-02-04 17:58:12 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:12 - DEBUG - Attempts made: 144; incorrect attempts: 0; correct attempts: 144.
+2024-02-04 17:58:12 - DEBUG - 22278 possible words.
+2024-02-04 17:58:12 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:12 - DEBUG - Attempts made: 145; incorrect attempts: 0; correct attempts: 145.
+2024-02-04 17:58:12 - DEBUG - 22278 possible words.
+2024-02-04 17:58:12 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:12 - DEBUG - Attempts made: 146; incorrect attempts: 0; correct attempts: 146.
+2024-02-04 17:58:12 - DEBUG - 22278 possible words.
+2024-02-04 17:58:12 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:12 - DEBUG - Attempts made: 147; incorrect attempts: 0; correct attempts: 147.
+2024-02-04 17:58:12 - DEBUG - 22278 possible words.
+2024-02-04 17:58:12 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:12 - DEBUG - Attempts made: 148; incorrect attempts: 0; correct attempts: 148.
+2024-02-04 17:58:12 - DEBUG - 22278 possible words.
+2024-02-04 17:58:13 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:13 - DEBUG - Attempts made: 149; incorrect attempts: 0; correct attempts: 149.
+2024-02-04 17:58:13 - DEBUG - 22278 possible words.
+2024-02-04 17:58:13 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:13 - DEBUG - Attempts made: 150; incorrect attempts: 0; correct attempts: 150.
+2024-02-04 17:58:13 - DEBUG - 22278 possible words.
+2024-02-04 17:58:13 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:13 - DEBUG - Attempts made: 151; incorrect attempts: 0; correct attempts: 151.
+2024-02-04 17:58:13 - DEBUG - 22278 possible words.
+2024-02-04 17:58:13 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:13 - DEBUG - Attempts made: 152; incorrect attempts: 0; correct attempts: 152.
+2024-02-04 17:58:13 - DEBUG - 22278 possible words.
+2024-02-04 17:58:13 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:13 - DEBUG - Attempts made: 153; incorrect attempts: 0; correct attempts: 153.
+2024-02-04 17:58:13 - DEBUG - 22278 possible words.
+2024-02-04 17:58:13 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:13 - DEBUG - Attempts made: 154; incorrect attempts: 0; correct attempts: 154.
+2024-02-04 17:58:13 - DEBUG - 22278 possible words.
+2024-02-04 17:58:14 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:14 - DEBUG - Attempts made: 155; incorrect attempts: 0; correct attempts: 155.
+2024-02-04 17:58:14 - DEBUG - 22278 possible words.
+2024-02-04 17:58:14 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:14 - DEBUG - Attempts made: 156; incorrect attempts: 0; correct attempts: 156.
+2024-02-04 17:58:14 - DEBUG - 22278 possible words.
+2024-02-04 17:58:14 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:14 - DEBUG - Attempts made: 157; incorrect attempts: 0; correct attempts: 157.
+2024-02-04 17:58:14 - DEBUG - 22278 possible words.
+2024-02-04 17:58:14 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:14 - DEBUG - Attempts made: 158; incorrect attempts: 0; correct attempts: 158.
+2024-02-04 17:58:14 - DEBUG - 22278 possible words.
+2024-02-04 17:58:14 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:14 - DEBUG - Attempts made: 159; incorrect attempts: 0; correct attempts: 159.
+2024-02-04 17:58:14 - DEBUG - 22278 possible words.
+2024-02-04 17:58:15 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:15 - DEBUG - Attempts made: 160; incorrect attempts: 0; correct attempts: 160.
+2024-02-04 17:58:15 - DEBUG - 22278 possible words.
+2024-02-04 17:58:15 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:15 - DEBUG - Attempts made: 161; incorrect attempts: 0; correct attempts: 161.
+2024-02-04 17:58:15 - DEBUG - 22278 possible words.
+2024-02-04 17:58:15 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:15 - DEBUG - Attempts made: 162; incorrect attempts: 0; correct attempts: 162.
+2024-02-04 17:58:15 - DEBUG - 22278 possible words.
+2024-02-04 17:58:15 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:15 - DEBUG - Attempts made: 163; incorrect attempts: 0; correct attempts: 163.
+2024-02-04 17:58:15 - DEBUG - 22278 possible words.
+2024-02-04 17:58:15 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:15 - DEBUG - Attempts made: 164; incorrect attempts: 0; correct attempts: 164.
+2024-02-04 17:58:15 - DEBUG - 22278 possible words.
+2024-02-04 17:58:16 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:16 - DEBUG - Attempts made: 165; incorrect attempts: 0; correct attempts: 165.
+2024-02-04 17:58:16 - DEBUG - 22278 possible words.
+2024-02-04 17:58:16 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:16 - DEBUG - Attempts made: 166; incorrect attempts: 0; correct attempts: 166.
+2024-02-04 17:58:16 - DEBUG - 22278 possible words.
+2024-02-04 17:58:16 - DEBUG - Tried letter: e; with result: [7, 10].
+2024-02-04 17:58:16 - DEBUG - Attempts made: 167; incorrect attempts: 0; correct attempts: 167.
+2024-02-04 17:58:16 - DEBUG - 22278 possible words.
+2024-02-04 17:58:51 - INFO - Performing 10000 tests.
+2024-02-04 17:58:51 - INFO - Performing TEST 0:
+2024-02-04 17:58:51 - DEBUG - Word is: fluidizes.
+2024-02-04 17:58:51 - DEBUG - 44892 possible words.
+2024-02-04 17:58:52 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:52 - DEBUG - Attempts made: 1; incorrect attempts: 0; correct attempts: 1.
+2024-02-04 17:58:52 - DEBUG - 44892 possible words.
+2024-02-04 17:58:52 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:52 - DEBUG - Attempts made: 2; incorrect attempts: 0; correct attempts: 2.
+2024-02-04 17:58:52 - DEBUG - 44892 possible words.
+2024-02-04 17:58:52 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:52 - DEBUG - Attempts made: 3; incorrect attempts: 0; correct attempts: 3.
+2024-02-04 17:58:52 - DEBUG - 44892 possible words.
+2024-02-04 17:58:53 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:53 - DEBUG - Attempts made: 4; incorrect attempts: 0; correct attempts: 4.
+2024-02-04 17:58:53 - DEBUG - 44892 possible words.
+2024-02-04 17:58:53 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:53 - DEBUG - Attempts made: 5; incorrect attempts: 0; correct attempts: 5.
+2024-02-04 17:58:53 - DEBUG - 44892 possible words.
+2024-02-04 17:58:53 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:53 - DEBUG - Attempts made: 6; incorrect attempts: 0; correct attempts: 6.
+2024-02-04 17:58:53 - DEBUG - 44892 possible words.
+2024-02-04 17:58:54 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:54 - DEBUG - Attempts made: 7; incorrect attempts: 0; correct attempts: 7.
+2024-02-04 17:58:54 - DEBUG - 44892 possible words.
+2024-02-04 17:58:54 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:54 - DEBUG - Attempts made: 8; incorrect attempts: 0; correct attempts: 8.
+2024-02-04 17:58:54 - DEBUG - 44892 possible words.
+2024-02-04 17:58:55 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:55 - DEBUG - Attempts made: 9; incorrect attempts: 0; correct attempts: 9.
+2024-02-04 17:58:55 - DEBUG - 44892 possible words.
+2024-02-04 17:58:55 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:55 - DEBUG - Attempts made: 10; incorrect attempts: 0; correct attempts: 10.
+2024-02-04 17:58:55 - DEBUG - 44892 possible words.
+2024-02-04 17:58:55 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:55 - DEBUG - Attempts made: 11; incorrect attempts: 0; correct attempts: 11.
+2024-02-04 17:58:55 - DEBUG - 44892 possible words.
+2024-02-04 17:58:56 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:56 - DEBUG - Attempts made: 12; incorrect attempts: 0; correct attempts: 12.
+2024-02-04 17:58:56 - DEBUG - 44892 possible words.
+2024-02-04 17:58:56 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:56 - DEBUG - Attempts made: 13; incorrect attempts: 0; correct attempts: 13.
+2024-02-04 17:58:56 - DEBUG - 44892 possible words.
+2024-02-04 17:58:57 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:57 - DEBUG - Attempts made: 14; incorrect attempts: 0; correct attempts: 14.
+2024-02-04 17:58:57 - DEBUG - 44892 possible words.
+2024-02-04 17:58:57 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:57 - DEBUG - Attempts made: 15; incorrect attempts: 0; correct attempts: 15.
+2024-02-04 17:58:57 - DEBUG - 44892 possible words.
+2024-02-04 17:58:57 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:57 - DEBUG - Attempts made: 16; incorrect attempts: 0; correct attempts: 16.
+2024-02-04 17:58:57 - DEBUG - 44892 possible words.
+2024-02-04 17:58:58 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:58 - DEBUG - Attempts made: 17; incorrect attempts: 0; correct attempts: 17.
+2024-02-04 17:58:58 - DEBUG - 44892 possible words.
+2024-02-04 17:58:58 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:58 - DEBUG - Attempts made: 18; incorrect attempts: 0; correct attempts: 18.
+2024-02-04 17:58:58 - DEBUG - 44892 possible words.
+2024-02-04 17:58:59 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:59 - DEBUG - Attempts made: 19; incorrect attempts: 0; correct attempts: 19.
+2024-02-04 17:58:59 - DEBUG - 44892 possible words.
+2024-02-04 17:58:59 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:59 - DEBUG - Attempts made: 20; incorrect attempts: 0; correct attempts: 20.
+2024-02-04 17:58:59 - DEBUG - 44892 possible words.
+2024-02-04 17:58:59 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:58:59 - DEBUG - Attempts made: 21; incorrect attempts: 0; correct attempts: 21.
+2024-02-04 17:58:59 - DEBUG - 44892 possible words.
+2024-02-04 17:59:00 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:59:00 - DEBUG - Attempts made: 22; incorrect attempts: 0; correct attempts: 22.
+2024-02-04 17:59:00 - DEBUG - 44892 possible words.
+2024-02-04 17:59:00 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:59:00 - DEBUG - Attempts made: 23; incorrect attempts: 0; correct attempts: 23.
+2024-02-04 17:59:00 - DEBUG - 44892 possible words.
+2024-02-04 17:59:00 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:59:00 - DEBUG - Attempts made: 24; incorrect attempts: 0; correct attempts: 24.
+2024-02-04 17:59:00 - DEBUG - 44892 possible words.
+2024-02-04 17:59:01 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:59:01 - DEBUG - Attempts made: 25; incorrect attempts: 0; correct attempts: 25.
+2024-02-04 17:59:01 - DEBUG - 44892 possible words.
+2024-02-04 17:59:01 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:59:01 - DEBUG - Attempts made: 26; incorrect attempts: 0; correct attempts: 26.
+2024-02-04 17:59:01 - DEBUG - 44892 possible words.
+2024-02-04 17:59:01 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:59:01 - DEBUG - Attempts made: 27; incorrect attempts: 0; correct attempts: 27.
+2024-02-04 17:59:01 - DEBUG - 44892 possible words.
+2024-02-04 17:59:02 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:59:02 - DEBUG - Attempts made: 28; incorrect attempts: 0; correct attempts: 28.
+2024-02-04 17:59:02 - DEBUG - 44892 possible words.
+2024-02-04 17:59:02 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:59:02 - DEBUG - Attempts made: 29; incorrect attempts: 0; correct attempts: 29.
+2024-02-04 17:59:02 - DEBUG - 44892 possible words.
+2024-02-04 17:59:02 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:59:02 - DEBUG - Attempts made: 30; incorrect attempts: 0; correct attempts: 30.
+2024-02-04 17:59:02 - DEBUG - 44892 possible words.
+2024-02-04 17:59:03 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:59:03 - DEBUG - Attempts made: 31; incorrect attempts: 0; correct attempts: 31.
+2024-02-04 17:59:03 - DEBUG - 44892 possible words.
+2024-02-04 17:59:03 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:59:03 - DEBUG - Attempts made: 32; incorrect attempts: 0; correct attempts: 32.
+2024-02-04 17:59:03 - DEBUG - 44892 possible words.
+2024-02-04 17:59:03 - DEBUG - Tried letter: e; with result: [7].
+2024-02-04 17:59:03 - DEBUG - Attempts made: 33; incorrect attempts: 0; correct attempts: 33.
+2024-02-04 17:59:03 - DEBUG - 44892 possible words.
